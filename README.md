@@ -54,4 +54,4 @@ Button {
 
 ## License
 
-Coming soon
+KeyboardBeGone is released under the MIT license. [See LICENSE](https://github.com/lmartinresnick/KeyboardBeGone/blob/main/LICENSE) for details.
